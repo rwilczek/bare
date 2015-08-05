@@ -1,0 +1,14 @@
+{
+  "name": "kata/vending_machine",
+  "description": "A code-kata building the brains of a vending machine",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "VendingMachine\\": ["tests", "src"]
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "*"
+  }
+}
