@@ -1,0 +1,14 @@
+Select Product
+
+Als Händler möchte ich, dass meine Kunden Waren auswählen,
+damit ich ihnen einen Anreiz gebe, Geld in den Automaten einzuwerfen.
+
+Es gibt 3 Produkte: Cola für 1.00 $, Chips für 0.50 $ und Schokoriegel für 0.65 $.
+
+Wenn der entsprechende Knopf gedrückt wird und genügend Geld eingeworfen wurde, wird das Produkt ausgegeben,
+und der Automat zeigt „THANK YOU“ an.
+
+Wenn das Display erneut angeschaut wird, zeigt es „INSERT COINS“, und der aktuelle Betrag wird auf 0.00 $ gesetzt.
+
+Wenn nicht genug Geld eingeworfen wurde, zeigt die Maschine „PRICE“ und den Preis des Produktes.
+Weiteres Betrachten des Displays zeigt dann entweder „INSERT COINS“ oder den aktuellen Betrag.

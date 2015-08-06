@@ -1,0 +1,7 @@
+Exact Change Only
+
+Als Kunde möchte erfahren, wenn die Maschine nicht wechseln kann, damit ich entscheiden kann,
+ob ich etwas mit dem mir verfügbaren Geld kaufen kann, bevor ich es einwerfe.
+
+Wenn der Automat nicht in der Lage ist, Wechselgeld für irgendeines der Produkte herauszugeben,
+zeigt das Display „EXACT CHANGE ONLY“ statt „INSERT COINS“

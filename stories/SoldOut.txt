@@ -1,0 +1,7 @@
+Sold Out
+
+Als Kunde möchte erfahren, wenn das von mir gewählte Produkt nicht verfügbar ist, damit ich ein anderes wählen kann.
+
+Wenn das vom Kunden gewählte Produkt ausverkauft ist, zeigt das Display „SOLD OUT“.
+Schaut man erneut aufs Display, wird der aktuell eingeworfene Geldbetrag angezeigt
+oder „INSERT COINS“, wenn nichts eingeworfen wurde.

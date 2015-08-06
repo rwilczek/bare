@@ -1,0 +1,8 @@
+Vending Machine Kata
+
+In dieser Übung bauen wir das Gehirn eines Warenautomaten.
+Er wird Geld entgegennehmen, Wechselgeld herausgeben, Inventar verwalten und Produkte ausgeben.
+
+Der Sinn dieser Kata ist es, eine nicht-triviale Übung für TDD abzugeben.
+Ein signifikanter Teil des Aufwandes wird darin bestehen, herauszufinden, welche Tests geschrieben werden sollten und
+– noch wichtiger – welche als nächstes geschrieben werden sollten.

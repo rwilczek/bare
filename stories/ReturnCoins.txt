@@ -1,0 +1,6 @@
+Return Coins
+
+Als Kunde möchte ich mein Geld zurückerhalten, so dass ich meine Kaufentscheidung ändern kann.
+
+Wenn der Knopf „Return Coins“ gedrückt wird, erhält der Kunde das von ihm eingeworfene Geld zurück,
+und die Maschine zeigt „INSERT COINS“

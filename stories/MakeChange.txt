@@ -1,0 +1,7 @@
+Make Change
+
+Als Händler möchte ich, dass meine Kunden korrektes Wechselgeld erhalten,
+damit sie die Maschine auch noch einmal verwenden.
+
+Wenn ein Produkt ausgewählt wurde, das weniger kostet als der eingeworfene Geldbetrag,
+wird der Differenzbetrag in der Münzausgabe ausgegeben.
