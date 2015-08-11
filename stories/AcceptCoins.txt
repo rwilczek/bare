@@ -1,16 +1,24 @@
 Accept Coins
 
-Als Händler möchte ich einen Warenautomaten haben, der Geld entgegennimmt,
+Als Händler möchte ich einen Warenautomaten haben,
+der Geld entgegennimmt,
 damit ich das Geld der Kunden einsammeln kann.
 
-Der Automat akzeptiert gültige Münzen (Nickel, Dime, Quarter) und verweigert die Annahme ungültiger Münzen (Penny).
-Wenn eine gültige Münze eingeworfen wird, wird der Münzbetrag auf den aktuellen Betrag addiert
+Der Automat akzeptiert gültige Münzen (Nickel, Dime, Quarter)
+und verweigert die Annahme ungültiger Münzen (Penny).
+Wenn eine gültige Münze eingeworfen wird,
+wird der Münzbetrag auf den aktuellen Betrag addiert
 und die Anzeige aktualisiert.
-Wenn keine Münze eingeworfen wurde, zeigt die Maschine „INSERT COIN“. Verweigerte Münzen landen in der Münzausgabe.
+Wenn keine Münze eingeworfen wurde,
+zeigt die Maschine „INSERT COINS“.
+Verweigerte Münzen landen in der Münzausgabe.
 
-Hinweis: Man ist versucht, Coin-Objekte zu erzeugen, die ihren Wert kennen.
-Echte Automaten arbeiten aber nicht so. Stattdessen identifizieren sie Münzen an Gewicht und Größe und weisen dann
-dem eingeworfenen Ding einen Wert zu.
-Man wird für diese Kata etwas ähnliches mit Strings, Konstanten u.ä. simulieren müssen.
+Hinweis: Man ist versucht, Coin-Objekte zu erzeugen,
+die ihren Wert kennen.
+Echte Automaten arbeiten aber nicht so.
+Stattdessen identifizieren sie Münzen an Gewicht und Größe
+und weisen dann dem eingeworfenen Ding einen Wert zu.
+Man wird für diese Kata etwas ähnliches mit Strings,
+Konstanten u.ä. simulieren müssen.
 
 Nickel = 0.05 $	Dime = 0.10 $	Quarter = 0.25 $	Penny = 0.01 $
